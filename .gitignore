@@ -1,0 +1,12 @@
+.DS_Store
+thumbs.db
+node_modules/
+.nyc_output
+coverage
+coverage.html
+#dist
+docs/docs
+
+docs/package-lock.json
+publish/package-lock.json
+utils/*/package-lock.json
